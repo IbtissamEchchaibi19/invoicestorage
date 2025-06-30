@@ -5,4 +5,7 @@ invoice_id,invoice_date,customer_name,customer_id,customer_location,customer_typ
 ,,,,Unknown,,,,,Unknown,,,,,,,,,,invoice-7.pdf
 ,,,,Unknown,,,,,Unknown,,,,,,,,,,invoice-9.pdf
 SINU1301-5706403,2023-11-17,Company U341,U341,Umm Al Quwain,Restaurant,746278045.0,Paid,2023-11-17,Wildflower Honey 70g,11.0,294.03,3234.33,3234.33,161.72,1293.71,40.0,176.42,0.0,
-SINU1301-3942088,2025-05-01,Company U306,U306,Abu Dhabi,Hotel,751009150,Paid,2025-05-01,Royal Jelly Honey 40g,17.0,279.96,4759.32,4759.32,237.97,1903.66,40.0,167.98,0.0,
+SINU1301-3942088,2025-05-01,Company U306,U306,Abu Dhabi,Hotel,751009150.0,Paid,2025-05-01,Royal Jelly Honey 40g,17.0,279.96,4759.32,4759.32,237.97,1903.66,40.0,167.98,0.0,
+SINU1301-2754041,2025-01-05,Company U309,U309,Ajman,Direct Consumer,324626152,Paid,2025-01-05,Forest Honey 90g,12.0,269.36,3232.32,3232.32,161.62,1292.88,40.0,161.62,0.0,
+SINU1301-9658044,2025-01-10,Company U327,U327,Dubai,Hotel,234356583,Paid,2025-01-10,Manuka Honey 50g,1.0,367.68,367.68,349.30,17.46,128.69,36.84,220.61,0.0,
+SINU1301-9250546,2023-09-14,Company U326,U326,Abu Dhabi,Restaurant,773184833,Paid,2023-09-14,Manuka Honey 50g,14.0,223.57,3129.98,3129.98,156.50,1252.02,40.0,134.14,0.0,
