@@ -1,0 +1,7 @@
+invoice_id,invoice_date,customer_name,customer_id,customer_location,customer_type,customer_trn,payment_status,due_date,product,qty,unit_price,total,amount_excl_vat,vat,profit,profit_margin,cost_price,days_to_payment,filename
+,,,,Unknown,,,,,Unknown,,,,,,,,,,invoice-1.pdf
+,,,,Unknown,,,,,Unknown,,,,,,,,,,invoice-2.pdf
+,,,,Unknown,,,,,Unknown,,,,,,,,,,invoice-6.pdf
+,,,,Unknown,,,,,Unknown,,,,,,,,,,invoice-7.pdf
+,,,,Unknown,,,,,Unknown,,,,,,,,,,invoice-9.pdf
+SINU1301-5706403,2023-11-17,Company U341,U341,Umm Al Quwain,Restaurant,746278045,Paid,2023-11-17,Wildflower Honey 70g,11.0,294.03,3234.33,3234.33,161.72,1293.71,40.0,176.42,0
