@@ -33,12 +33,5 @@
     "type": "master",
     "location": "South Field",
     "master_id": null
-  },
-  {
-    "id": "worker_004",
-    "name": "Worker Hive 4",
-    "type": "worker",
-    "location": "South Field",
-    "master_id": "master_002"
   }
 ]
