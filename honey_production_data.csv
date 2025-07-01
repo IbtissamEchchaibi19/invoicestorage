@@ -1,5 +1,4 @@
 batch_number,report_year,company_name,apiary_number,location,gross_weight_kg,drum_weight_kg,net_weight_kg,beshara_kg,production_kg,num_production_hives,production_per_hive_kg,num_hive_supers,harvest_date,efficiency_ratio,waste_percentage,extraction_date
-hanane6729,2024,MANAHIL LLC,46 - Sharjah,Sharjah,46.0,138.2,18.8,119.4,2.4,117.0,34.0,3.44,2025-05-31,180.85106382978722,259.5652173913044,2025-06-18
 ibtissam6975,2024,MANAHIL LLC,67 - Al Hajar,Unknown,67.0,357.7,34.2,323.5,2.9,320.6,78.0,4.11,2024-10-19,228.0701754385965,482.8358208955224,2025-06-18
 ibtissam6975,2024,MANAHIL LLC,01 - Kalba,Kalba,1.0,398.7,24.3,374.4,2.8,371.6,47.0,7.91,2025-04-01,193.41563786008228,37440.0,2025-06-18
 ibtissam6975,2024,MANAHIL LLC,39 - Kalba,Kalba,39.0,607.9,18.4,589.5,2.7,586.8,27.0,21.73,2024-02-15,146.73913043478262,1511.5384615384614,2025-06-18
